@@ -1,0 +1,22 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: blue;
+  font-family: verdana;
+  text-align: center;
+  font-style: italic;
+}
+
+h2 {
+  color: red;
+  font-family: verdana;
+  text-align: center;
+  font-style: italic;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+}
